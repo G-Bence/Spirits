@@ -80,6 +80,6 @@ export const reminder: infoCardInterface = {
 };
 
 export const footer: footerInterface = {
-  author: "Gipsz Jakab",
-  date: "2026.09.27."
+  author: "Gémes Csaba Bence",
+  date: "2026.09.29."
 };
